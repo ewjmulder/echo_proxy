@@ -3,3 +3,6 @@
 *.sw*
 /tmp
 /log
+/.settings/
+/.classpath
+/.project
